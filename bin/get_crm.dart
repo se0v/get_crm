@@ -1,4 +1,5 @@
 void main() {
+  // Поля данных
   List<Map<String, dynamic>> attractions = [
     {'name': 'Исаакиевский собор', 'time': 5.0, 'importance': 10},
     {'name': 'Эрмитаж', 'time': 8.0, 'importance': 11},
